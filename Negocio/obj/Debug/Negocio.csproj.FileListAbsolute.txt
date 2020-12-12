@@ -1,0 +1,22 @@
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\bin\Debug\Negocio.dll
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\bin\Debug\TPC_Ocampo.dll
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\bin\Debug\TPC_Ocampo.pdb
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\obj\Debug\Negocio.dll
+C:\Users\Eli\source\repos\TPC_Ocampo\Negocio\obj\Debug\Negocio.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\bin\Debug\Negocio.dll
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\bin\Debug\Negocio.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\bin\Debug\AccesoDatos.dll
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\bin\Debug\TPC_Ocampo.dll
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\bin\Debug\AccesoDatos.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\bin\Debug\TPC_Ocampo.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\obj\Debug\Negocio.dll
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\Negocio\obj\Debug\Negocio.pdb

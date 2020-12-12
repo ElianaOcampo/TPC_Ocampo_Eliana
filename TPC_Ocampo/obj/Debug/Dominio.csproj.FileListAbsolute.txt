@@ -1,0 +1,12 @@
+C:\Users\Eli\source\repos\TPC_Ocampo\TPC_Ocampo\bin\Debug\TPC_Ocampo.dll
+C:\Users\Eli\source\repos\TPC_Ocampo\TPC_Ocampo\bin\Debug\TPC_Ocampo.pdb
+C:\Users\Eli\source\repos\TPC_Ocampo\TPC_Ocampo\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Eli\source\repos\TPC_Ocampo\TPC_Ocampo\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\TPC_Ocampo\TPC_Ocampo\obj\Debug\TPC_Ocampo.dll
+C:\Users\Eli\source\repos\TPC_Ocampo\TPC_Ocampo\obj\Debug\TPC_Ocampo.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\TPC_Ocampo\bin\Debug\TPC_Ocampo.dll
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\TPC_Ocampo\bin\Debug\TPC_Ocampo.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\TPC_Ocampo\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\TPC_Ocampo\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\TPC_Ocampo\obj\Debug\TPC_Ocampo.dll
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\TPC_Ocampo\obj\Debug\TPC_Ocampo.pdb

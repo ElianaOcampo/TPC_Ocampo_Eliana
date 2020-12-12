@@ -1,0 +1,63 @@
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\bin\Debug\PresentacionWinForm.exe.config
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\bin\Debug\PresentacionWinForm.exe
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\bin\Debug\PresentacionWinForm.pdb
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.csprojAssemblyReference.cache
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.Principal.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.Properties.Resources.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.csproj.GenerateResource.cache
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.exe
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.pdb
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormProductos.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormCategorias.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.Inicio.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormClientes.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormEmpleados.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormProveedores.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormSucursales.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormMarcas.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\bin\Debug\Negocio.dll
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\bin\Debug\TPC_Ocampo.dll
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\bin\Debug\AccesoDatos.dll
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\bin\Debug\Negocio.pdb
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\bin\Debug\TPC_Ocampo.pdb
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\bin\Debug\AccesoDatos.pdb
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.csproj.CopyComplete
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormVentas.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.IniciarSesion.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormSeguridad.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormInformes.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.ListProductos.resources
+C:\Users\Eli\source\repos\TPC_Ocampo\PresentacionWinForm\obj\Debug\PresentacionWinForm.ListVentas.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\bin\Debug\PresentacionWinForm.exe.config
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\bin\Debug\PresentacionWinForm.exe
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\bin\Debug\PresentacionWinForm.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\bin\Debug\Negocio.dll
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\bin\Debug\TPC_Ocampo.dll
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\bin\Debug\AccesoDatos.dll
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\bin\Debug\Negocio.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\bin\Debug\TPC_Ocampo.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\bin\Debug\AccesoDatos.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.csprojAssemblyReference.cache
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormCategorias.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormClientes.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormEmpleados.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormInformes.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormMarcas.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormProductos.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormProveedores.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormSeguridad.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormVentas.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.IniciarSesion.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.Inicio.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.ListProductos.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.ListVentas.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.Principal.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.Properties.Resources.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.csproj.GenerateResource.cache
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.csproj.CopyComplete
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.exe
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.pdb
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.FormCompras.resources
+D:\Documentos\Cursada\Prog 3\TPC_Ocampo_Final\PresentacionWinForm\obj\Debug\PresentacionWinForm.ListCompras.resources
