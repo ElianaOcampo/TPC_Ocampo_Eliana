@@ -21,8 +21,6 @@ namespace PresentacionWinForm
             InitializeComponent();
         }
 
-        
-
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -70,13 +68,14 @@ namespace PresentacionWinForm
                 productoLocal.marca = new Marcas();
 
                 productoLocal.Descripcion = txtDescripcion.Text;
-                productoLocal.marca.Nombre = cboMarca.SelectedItem.ToString();
-                productoLocal.categoria.Nombre = cboCategoria.SelectedItem.ToString();
+                productoLocal.marca.Id = cboMarca.SelectedIndex + 1;
+                productoLocal.categoria.Id = cboCategoria.SelectedIndex + 1;
                 productoLocal.PrecioVenta = Convert.ToDecimal(txtPrecio.Text);
                 productoLocal.StockMinimo = Convert.ToInt32(txtSMin.Text);
                 productoLocal.StockActual = Convert.ToInt32(txtSAct.Text);
 
                 negocio.AgregarProducto(productoLocal);
+                MessageBox.Show("PRODUCTO AGREGADO");
                 cargarGrilla();
             }
             else
@@ -174,8 +173,8 @@ namespace PresentacionWinForm
 
                 productoLocal.Id = Convert.ToInt32(txtId.Text);
                 productoLocal.Descripcion = txtDescripcion.Text;
-                productoLocal.marca.Nombre = cboMarca.SelectedItem.ToString();
-                productoLocal.categoria.Nombre = cboCategoria.SelectedItem.ToString();
+                productoLocal.marca.Id = cboMarca.SelectedIndex + 1;
+                productoLocal.categoria.Id = cboCategoria.SelectedIndex + 1;
                 productoLocal.PrecioVenta = Convert.ToDecimal(txtPrecio.Text);
                 productoLocal.StockMinimo = Convert.ToInt32(txtSMin.Text);
                 productoLocal.StockActual = Convert.ToInt32(txtSAct.Text);

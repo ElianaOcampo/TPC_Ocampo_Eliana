@@ -189,8 +189,8 @@ namespace Negocio
             {
                 accesoDatos.setearSP("sp_AGREGAR_PRODUCTO");
                 accesoDatos.Comando.Parameters.Clear();
-                accesoDatos.Comando.Parameters.AddWithValue("@MARCA", nuevo.marca.Nombre);
-                accesoDatos.Comando.Parameters.AddWithValue("@CATEGORIA", nuevo.categoria.Nombre);
+                accesoDatos.Comando.Parameters.AddWithValue("@MARCA", nuevo.marca.Id);
+                accesoDatos.Comando.Parameters.AddWithValue("@CATEGORIA", nuevo.categoria.Id);
                 accesoDatos.Comando.Parameters.AddWithValue("@DESCRIPCION", nuevo.Descripcion);
                 accesoDatos.Comando.Parameters.AddWithValue("@STOCK_ACTUAL", nuevo.StockActual);
                 accesoDatos.Comando.Parameters.AddWithValue("@STOCK_MINIMO", nuevo.StockMinimo);
@@ -216,8 +216,8 @@ namespace Negocio
             {
                 accesoDatos.setearSP("sp_MODIFICAR_PRODUCTO");
                 accesoDatos.Comando.Parameters.Clear();
-                accesoDatos.Comando.Parameters.AddWithValue("@MARCA", nuevo.marca.Nombre);
-                accesoDatos.Comando.Parameters.AddWithValue("@CATEGORIA", nuevo.categoria.Nombre);
+                accesoDatos.Comando.Parameters.AddWithValue("@MARCA", nuevo.marca.Id);
+                accesoDatos.Comando.Parameters.AddWithValue("@CATEGORIA", nuevo.categoria.Id);
                 accesoDatos.Comando.Parameters.AddWithValue("@DESCRIPCION", nuevo.Descripcion);
                 accesoDatos.Comando.Parameters.AddWithValue("@STOCK_ACTUAL", nuevo.StockActual);
                 accesoDatos.Comando.Parameters.AddWithValue("@ID", nuevo.Id);
