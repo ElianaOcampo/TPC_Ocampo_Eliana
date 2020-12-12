@@ -61,32 +61,14 @@ namespace PresentacionWinForm
 
         private void btnCambiar_Click(object sender, EventArgs e)
         {
-            if (txtnueva.Text.Length==txtRepetir.Text.Length)
+            if (txtnueva.Text.Equals(txtRepetir.Text))
             {
-                bool resultado = false;
-                int i;
-                for (i = 0; i <= txtnueva.Text.Length; i++)
-                {
-                    if (txtnueva.Text[i] != txtRepetir.Text[i])
-                    {
-                        resultado = true;
-                    }
-                    else
-                    {
-                        resultado = false;
-                        break;
-                    }
-                }
-
-                if (resultado == true)
-                {
-                    usuarioLocal.Contraseña = txtnueva.Text;
-                    UsuariosNegocio negocio = new UsuariosNegocio();
-                    negocio.ModificarContraseña(usuarioLocal);
-                }
-                else
-                    MessageBox.Show("LA CONTRASEÑA NO COINCIDE");
+                usuarioLocal.Contraseña = txtnueva.Text;
+                UsuariosNegocio negocio = new UsuariosNegocio();
+                negocio.ModificarContraseña(usuarioLocal);
             }
+            else
+                MessageBox.Show("LA CONTRASEÑA NO COINCIDE");
         }
 
         private void btnagregar_Click(object sender, EventArgs e)

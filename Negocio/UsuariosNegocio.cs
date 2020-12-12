@@ -48,7 +48,7 @@ namespace Negocio
             {
                 conexion.ConnectionString = AccesoDatosManager.cadenaConexion;
                 comando.CommandType = System.Data.CommandType.Text;
-                comando.CommandText = "UPDATE USUARIO SET CODIGO";
+                comando.CommandText = "UPDATE USUARIOS SET CODIGO";
                 comando.CommandText += "= '" + usuario.Contraseña + "'";
                 comando.CommandText += " WHERE DNI= ";
                 comando.CommandText += "'" + usuario.Dni + "'";
